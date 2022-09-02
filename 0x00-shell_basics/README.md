@@ -1,1 +1,1 @@
-Creating a script that creates a directory named my_first_directory in the /tmp/ directory
+moving the file betty from one directory to the other
